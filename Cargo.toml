@@ -1,0 +1,8 @@
+[package]
+name = "color-cont"
+version = "0.1.0"
+authors = ["Isaac Grosof <isaacbg227@gmail.com>"]
+
+[dependencies]
+rand = "=0.3.22"
+image = "*"
